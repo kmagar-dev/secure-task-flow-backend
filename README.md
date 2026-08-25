@@ -3,6 +3,7 @@
 A Spring Boot backend API for managing tasks with **role-based authentication and authorization** using Spring Security.  
 Built with Java 8, Spring Boot, JPA, MySQL, and tested with Postman.
 
+
 ---
 
 ## 📌 Features
